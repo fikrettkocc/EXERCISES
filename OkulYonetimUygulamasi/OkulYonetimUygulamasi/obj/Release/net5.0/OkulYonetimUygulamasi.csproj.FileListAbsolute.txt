@@ -1,0 +1,15 @@
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Release\net5.0\OkulYonetimUygulamasi.exe
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Release\net5.0\OkulYonetimUygulamasi.deps.json
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Release\net5.0\OkulYonetimUygulamasi.runtimeconfig.json
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Release\net5.0\OkulYonetimUygulamasi.runtimeconfig.dev.json
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Release\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\bin\Release\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\OkulYonetimUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\OkulYonetimUygulamasi.AssemblyInfoInputs.cache
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\OkulYonetimUygulamasi.AssemblyInfo.cs
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\OkulYonetimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\OkulYonetimUygulamasi.dll
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\refint\OkulYonetimUygulamasi.dll
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\OkulYonetimUygulamasi.pdb
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\OkulYonetimUygulamasi.genruntimeconfig.cache
+C:\Users\fikre\OneDrive\Desktop\Okul Yönetim Uygulamasi\OkulYonetimUygulamasi\OkulYonetimUygulamasi\obj\Release\net5.0\ref\OkulYonetimUygulamasi.dll
